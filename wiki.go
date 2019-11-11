@@ -2,7 +2,7 @@ package main
 
 import (
   "fmt"
-  "io/util"
+  "io/ioutil"
 )
 
 type Page struct {
